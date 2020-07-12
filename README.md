@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**osamakawish/osamakawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**osamakawish/osamakawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🔭 I’m currently working on a Windows Forms application for a Sudoku variation. Also working on a stock market social media application similar to StockWits.
 
@@ -19,3 +17,4 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: There's a lot of parallels between Ancient Indian philosophy with Enlightenment and Ancient Greek philosophy.
 
+I generally enjoy the entire development process: The planning, the UI designing, the learning, the programming, etc. 
