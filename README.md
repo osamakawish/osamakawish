@@ -15,6 +15,6 @@
 
 📫 How to reach me: [Email me](mailto:osamakawish@gmail.com).
 
-⚡ Fun fact: There's a lot of parallels between Ancient Indian philosophy with Enlightenment and Ancient Greek philosophy.
+⚡ Fun fact: There's a lot of parallels between Ancient Indian philosophy and Western (Enlightenment and Ancient Greek) philosophy.
 
 I generally enjoy the entire development process: The planning, the UI designing, the learning, the programming, etc. 
