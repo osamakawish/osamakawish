@@ -3,9 +3,9 @@
 <!--
 **osamakawish/osamakawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🔭 I’m currently working on a Windows Forms application for a Sudoku variation. Also working on a stock market social media application similar to StockWits.
+🔭 I’m currently working on an application that would help businesses grow.
 
-🌱 I’m currently learning Unity, .Net/C#, WPF, Windows Forms, etc. I am also learning to use various APIs in C#. 
+🌱 I’m currently learning advanced .Net/C#. Trying to also work on other people's code. I plan to learn web dev soon.
 
 👯 I’m looking to collaborate on anything! I love finance, math, games, and have experience with graphic design. I also have a bit of an interest in blogging.
 
