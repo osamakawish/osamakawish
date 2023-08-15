@@ -3,17 +3,11 @@
 <!--
 **osamakawish/osamakawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🔭 I’m currently working on an application that would help make math animations (FunctionPlots).
-
-🌱 I’m currently learning advanced .Net/C#. Trying to also work on other people's code. I plan to learn web dev soon.
+🔭 Check out [my portfolio](https://www.osamakawish.com/)! I will keep all updates regarding my programming and math related work and projects there.
 
 👯 I’m looking to collaborate on anything! I love finance, math, games, and have experience with graphic design. I also have a bit of an interest in blogging.
 
-🤔 I’m looking for help with teaching people about C# or advanced mathematical concepts. 
-
-💬 Ask me about C#, math, life, etc.
-
-📫 How to reach me: [Email me](mailto:osamakawish@gmail.com).
+📫 How to reach me: [Email me](mailto:osamakawish@gmail.com)! Other contact information can be found via [my about me page](https://osamakawish.com/about).
 
 ⚡ Fun fact: There's a lot of parallels between Ancient Indian philosophy and Western (Enlightenment and Ancient Greek) philosophy.
 
